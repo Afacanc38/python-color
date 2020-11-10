@@ -1,5 +1,6 @@
 sıfır = "\033[0m"  # Öntanımlı hale getir
 
+kalin = "\033[1m" # Kalın yazı
 egik = "\033[2m" # Eğik yazı
 aCizili = "\033[4m" # Altı Çizili
 tRenk = "\033[7m" # Ters renkler
