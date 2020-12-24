@@ -4,7 +4,6 @@ Komut satrınızı renklendirin!
 
 > **Not:** Python 3 veya üstü sürümünü gerektirir.
 
-Çok basit! 
 1. Adım: .py dosyaını projenizin bulunduğu klasöre atıp şu satrı ekleyin.
 ```
 import bicim
