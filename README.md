@@ -1,6 +1,9 @@
 # Python Color
 Komut satrınızı renklendirin!
 ### Nasıl kullanabilirim?
+
+> **Not:** Python 3 ve üstü sürümünü gerektirir.
+
 Çok basit! 
 1. Adım: .py dosyaını projenizin bulunduğu klasöre atıp şu satrı ekleyin.
 ```
