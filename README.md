@@ -3,11 +3,14 @@ Komut satrınızı renklendirin!
 ### Nasıl kullanabilirim?
 Çok basit! 
 1. Adım: .py dosyaını projenizin bulunduğu klasöre atıp şu satrı ekleyin.
-
-`import bicim`
+```
+import bicim
+```
 
 2. Adım: Örnek bir yazı yazdırın!
+```
 `print(f"{mavi}Merhaba{sıfır}")`
+```
 
 # Lisans
 Bu program Nörürsen Ör Kamu Lisansı (WTFPL) ile lisanslanmıştır
